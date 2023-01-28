@@ -1,0 +1,16 @@
+streamlit
+pandas
+requests
+matplotlib
+leafmap
+shillelagh
+sqlalchemy
+sqlalchemy.ext
+google.auth
+plotly
+branca
+os
+pathlib
+pydrive
+pydrive.auth
+pydrive.drive
